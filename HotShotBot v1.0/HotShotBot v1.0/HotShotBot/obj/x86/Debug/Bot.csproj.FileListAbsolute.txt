@@ -1,0 +1,12 @@
+c:\users\shellvhack\documents\visual studio 2010\Projects\Bot\Bot\bin\Debug\Bot.exe
+c:\users\shellvhack\documents\visual studio 2010\Projects\Bot\Bot\bin\Debug\Bot.pdb
+c:\users\shellvhack\documents\visual studio 2010\Projects\Bot\Bot\bin\Debug\AIMLbot.dll
+c:\users\shellvhack\documents\visual studio 2010\Projects\Bot\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+c:\users\shellvhack\documents\visual studio 2010\Projects\Bot\Bot\obj\x86\Debug\Bot.exe
+c:\users\shellvhack\documents\visual studio 2010\Projects\Bot\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\bin\Debug\AIMLbot.dll
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\bin\Debug\HotShotBot.exe
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\bin\Debug\HotShotBot.pdb
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\obj\x86\Debug\HotShotBot.exe
+C:\Users\Vivek Yadav\Desktop\Im workin Dude\HotShotBot v1.0\Bot\obj\x86\Debug\HotShotBot.pdb

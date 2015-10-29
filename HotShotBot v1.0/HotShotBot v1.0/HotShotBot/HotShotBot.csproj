@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{89A21A04-6B16-4EC3-ACC3-4D90962A40EA}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HotShotBot</RootNamespace>
+    <AssemblyName>HotShotBot</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bot.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AIMLbot, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\AIMLbot.dll</HintPath>
+    </Reference>
+    <Reference Include="CuteRobot, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\CuteRobot.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\System.Speech.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AIMLbot.dll" />
+    <Content Include="bot.ico" />
+    <Content Include="config\DefaultPredicates.xml" />
+    <Content Include="config\GenderSubstitutions.xml" />
+    <Content Include="config\Person2Substitutions.xml" />
+    <Content Include="config\PersonSubstitutions.xml" />
+    <Content Include="config\Settings.xml" />
+    <Content Include="config\Splitters.xml" />
+    <Content Include="config\Substitutions.xml" />
+    <Content Include="System.Speech.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="aiml\AI.aiml" />
+    <None Include="aiml\Atomic.aiml" />
+    <None Include="aiml\Biography.aiml" />
+    <None Include="aiml\Bot.aiml" />
+    <None Include="aiml\Botmaster.aiml" />
+    <None Include="aiml\Client.aiml" />
+    <None Include="aiml\Computers.aiml" />
+    <None Include="aiml\CustomTagTest.aiml" />
+    <None Include="aiml\Default.aiml" />
+    <None Include="aiml\Emotion.aiml" />
+    <None Include="aiml\Food.aiml" />
+    <None Include="aiml\Geography.aiml" />
+    <None Include="aiml\History.aiml" />
+    <None Include="aiml\Inquiry.aiml" />
+    <None Include="aiml\Interjection.aiml" />
+    <None Include="aiml\IU.aiml" />
+    <None Include="aiml\Knowledge.aiml" />
+    <None Include="aiml\Literature.aiml" />
+    <None Include="aiml\Money.aiml" />
+    <None Include="aiml\Movies.aiml" />
+    <None Include="aiml\Music.aiml" />
+    <None Include="aiml\Personality.aiml" />
+    <None Include="aiml\Philosophy.aiml" />
+    <None Include="aiml\Pickup.aiml" />
+    <None Include="aiml\Predicates.aiml" />
+    <None Include="aiml\Reduce.aiml" />
+    <None Include="aiml\Reductions.aiml" />
+    <None Include="aiml\Salutations.aiml" />
+    <None Include="aiml\Science.aiml" />
+    <None Include="aiml\Stack.aiml" />
+    <None Include="aiml\Stories.aiml" />
+    <None Include="aiml\That.aiml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
