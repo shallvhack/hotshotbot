@@ -48,8 +48,11 @@ he should work on any Microsoft system(or you can also use mono on linux):
  - Enough available RAM (depending on the AIML set you're using)
  
 
-NOTE: HotShotBot doesn't require any installation.You can directly run the "HotShotBot.exe" file and enjoy the show.
-----
+
+INSTALLATION
+------------
+HotShotBot could be Easily Installed by executing the "HotShotBot.exe" (Setup File) availabe at http://hotshotbot.sourceforge.net
+The Installer is created using Inno Setup Compiler (www.innosetup.com).
 
 ACKNOWLEDGEMENTS
 ----------------
