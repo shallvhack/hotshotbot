@@ -53,6 +53,9 @@ NOTE: HotShotBot doesn't require any installation.You can directly run the "HotS
 
 ACKNOWLEDGEMENTS
 ----------------
+HotShotBot is a product of www.shellvhack.com
+It is also available at http://hotshotbot.sourceforge.net/
+
 The Win32 installer was produced using the Nullsoft Install System
 (http://www.nullsoft.com/free/nsis/).
 
