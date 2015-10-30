@@ -56,9 +56,6 @@ ACKNOWLEDGEMENTS
 HotShotBot is a product of www.shellvhack.com
 It is also available at http://hotshotbot.sourceforge.net/
 
-The Win32 installer was produced using the Nullsoft Install System
-(http://www.nullsoft.com/free/nsis/).
-
 HotShotBot's conversational back-end is provided by AIMLbot.dll
 (http://aimlbot.sourceforge.net), a C# implementation of Dr. Richard S.
 Wallace's A.L.I.C.E. system. For more information about the A.L.I.C.E.
@@ -66,3 +63,11 @@ Foundation (including information on AIML, the Artificial Intelligence
 Markup Language used to program HotShotBot's responses), visit the A.L.I.C.E.
 homepage at http://www.alicebot.org/. 
 
+Contact Us:
+-----------
+Website: www.shellvhack.com
+Twitter : www.twitter.com/shellvhack
+Facebook : www.facebook.com/shellvhack
+Google Plus : https://plus.google.com/+ShellvhackBlogspotPage
+Github : https://github.com/shellvhack
+LinkedIn : https://in.linkedin.com/in/vyvivekyadav04
