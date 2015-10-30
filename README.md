@@ -16,8 +16,8 @@ Copyright (c) 2015 ShellVhack
 
 ABOUT HotShotBot
 -----------
-HotShotBot is an AIML based Chat Bot written in C# -- a computer program you can talk to.  He
-is designed to be portable (No need of installation).
+HotShotBot is an AIML based Chat Bot written in C# -- a computer program you can talk to. 
+It has an easy Installation.
 
 HotShotBot is actually a very simple AIML Bot which actually designed to help you to create
 your very first AIML Chatbot in C#.
