@@ -45,7 +45,7 @@ SYSTEM REQUIREMENTS
 HotShotBot has been tested on Windows 10,Windows 8,Windows 8.1.However,
 he should work on any Microsoft system(or you can also use mono on linux):
  - .NET Framework
- - Enough available RAM (depending on the AIML set you're using)
+ -  Enough available RAM (depending on the AIML set you're using)
  
 
 
@@ -69,8 +69,11 @@ homepage at http://www.alicebot.org/.
 Contact Us:
 -----------
 Website: www.shellvhack.com
+
 Twitter : www.twitter.com/shellvhack
+
 Facebook : www.facebook.com/shellvhack
-Google Plus : https://plus.google.com/+ShellvhackBlogspotPage
+
 Github : https://github.com/shellvhack
+
 LinkedIn : https://in.linkedin.com/in/vyvivekyadav04
