@@ -8,11 +8,11 @@
 
 HotShotBot: A simple AIML based Chat Bot written in C#
 
-Author: Vivek Yadav (www.shellvhack.com)
+Author: Vivek Yadav (www.shallvhack.com)
 
 HotShotBot - An AIML Chat Bot written in C#.
 (http://hotshotbot.sourceforge.net/)
-Copyright (c) 2015 ShellVhack
+Copyright (c) 2015 ShallVhack
 
 ABOUT HotShotBot
 -----------
@@ -56,7 +56,7 @@ The Installer is created using Inno Setup Compiler (www.innosetup.com).
 
 ACKNOWLEDGEMENTS
 ----------------
-HotShotBot is a product of www.shellvhack.com
+HotShotBot is a product of www.shallvhack.com
 It is also available at http://hotshotbot.sourceforge.net/
 
 HotShotBot's conversational back-end is provided by AIMLbot.dll
@@ -68,12 +68,12 @@ homepage at http://www.alicebot.org/.
 
 Contact Us:
 -----------
-Website: www.shellvhack.com
+Website: www.shallvhack.com
 
-Twitter : www.twitter.com/shellvhack
+Twitter : www.twitter.com/shallvhack
 
-Facebook : www.facebook.com/shellvhack
+Facebook : www.facebook.com/shallvhack
 
-Github : https://github.com/shellvhack
+Github : https://github.com/shallvhack
 
 LinkedIn : https://in.linkedin.com/in/vyvivekyadav04
